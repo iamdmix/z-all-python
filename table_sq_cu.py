@@ -1,4 +1,4 @@
-  # table of squares and cubes
+# table of squares and cubes
 a= int(input('Enter the first number in range to find square of - '))
 b= int(input('Enter the last number in range to find square of - '))
 print('Number\tSquare\tCube')
