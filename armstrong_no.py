@@ -20,6 +20,6 @@ def Armstrong(num):
         print(num,"is not an Armstrong number") 
 
 
-Armstrong(153)
+Armstrong(153) #Function Call
 
 
